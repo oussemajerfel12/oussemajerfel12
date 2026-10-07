@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussema Jerfel</h1>
-<h3 align="center">A passionate Software engineer from Tunisia</h3>
+<h3 align="center">A passionate Software engineer </h3>
 
 - 📫 How to reach me **Oussemajerfel@gmail.com**
 
